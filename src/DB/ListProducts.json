@@ -43,10 +43,10 @@
   },
   {
     "id": 7,
-    "name": "lapto",
+    "name": "Teclado Gamer",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 70.00,
-    "image": "/image/lapto.webp"
+    "image": "/image/teclado_gamer"
   },
   {
     "id": 8,
