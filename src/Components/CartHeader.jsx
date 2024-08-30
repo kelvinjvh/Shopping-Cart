@@ -1,6 +1,6 @@
 import "../Styles/Header.css"
 const CartHeader = ({ShowModal,products}) => {
-
+  
   return (
     <header className="cart__header">
       <h1 className="card__header-logo">Ecommerce</h1>

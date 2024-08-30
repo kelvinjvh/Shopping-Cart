@@ -13,6 +13,7 @@ function App() {
     ShowModal,
     showModal,
   } = useShoppingCart();
+
   return (
     <>
       <CartHeader ShowModal={ShowModal} products={products} />
