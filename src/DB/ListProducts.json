@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "audifonos",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita accusantium",
+    "price": 70.00,
+    "image": "/image/audifonos.jpg"
+  },
+  {
+    "id": 2,
+    "name": "camara",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+    "price": 2000.00,
+    "image": "/image/camara.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "celular",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita accusantium ",
+    "price": 700.00,
+    "image": "/image/celular.jpg"
+  },
+  {
+    "id": 4,
+    "name": "keyboard",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita accusantium ",
+    "price": 100.00,
+    "image": "/image/keyboard.jpg"
+  },
+  {
+    "id": 5,
+    "name": "setup",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 5000.00,
+    "image": "/image/setup.webp"
+  },
+  {
+    "id": 6,
+    "name": "mouse",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 70.00,
+    "image": "/image/MOUSE.webp"
+  },
+  {
+    "id": 7,
+    "name": "lapto",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 70.00,
+    "image": "/image/lapto.webp"
+  },
+  {
+    "id": 8,
+    "name": "auriculares",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 70.00,
+    "image": "/image/auriculares.jpg"
+  },
+  {
+    "id": 9,
+    "name": "reloj smart",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 500.00,
+    "image": "/image/reloj.webp"
+  },
+  {
+    "id": 10,
+    "name": "lentes realidad virtual",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 800.00,
+    "image": "/image/lentes.webp"
+  },
+  {
+    "id": 11,
+    "name": "nintendo switch",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 800.00,
+    "image": "/image/nintendo.jpg"
+  }
+]
