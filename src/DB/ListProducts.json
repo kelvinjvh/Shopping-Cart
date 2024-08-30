@@ -32,7 +32,7 @@
     "name": "Phone",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 5000.00,
-    "image": "/image/phone"
+    "image": "/image/phone.png"
   },
   {
     "id": 6,
