@@ -60,14 +60,14 @@
     "name": "reloj smart",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 500.00,
-    "image": "/image/reloj.webp"
+    "image": "/image/reloj.png"
   },
   {
     "id": 10,
     "name": "lentes realidad virtual",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 800.00,
-    "image": "/image/lentes.webp"
+    "image": "/image/lentes.png"
   },
   {
     "id": 11,
