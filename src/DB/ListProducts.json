@@ -46,7 +46,7 @@
     "name": "Teclado Gamer",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 70.00,
-    "image": "/image/teclado_gamer"
+    "image": "/image/teclado_gamer.png"
   },
   {
     "id": 8,
