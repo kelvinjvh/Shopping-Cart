@@ -32,14 +32,14 @@
     "name": "setup",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 5000.00,
-    "image": "/image/setup.webp"
+    "image": "/image/macbook.webp"
   },
   {
     "id": 6,
     "name": "mouse",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 70.00,
-    "image": "/image/MOUSE.webp"
+    "image": "/image/mouse.png"
   },
   {
     "id": 7,
