@@ -29,10 +29,10 @@
   },
   {
     "id": 5,
-    "name": "setup",
+    "name": "Phone",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     "price": 5000.00,
-    "image": "/image/macbook.webp"
+    "image": "/image/phone"
   },
   {
     "id": 6,
